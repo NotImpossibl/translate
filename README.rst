@@ -29,25 +29,22 @@ Translate Toolkit
     :target: https://pypi.python.org/pypi/translate-toolkit/
     :alt: License
 
-The Translate Toolkit is a set of software and documentation designed to help
-make the lives of localizers both more productive and less frustrating.  The
-Toolkit is part of the Translate project, hosted at
-<https://github.com/translate>.
+Translate 工具包是一套软件和文档，旨在帮助本地化人员提高工作效率，减少挫折感。该工具包是 Translate 项目的一部分，托管在 <https://github.com/translate>。
 
-The software includes programs to convert localization formats to the common
-PO, and emerging XLIFF format.  There are also programs to check and manage PO
-and XLIFF files.  Online documentation includes guides on using the tools,
-running a localization project and how to localize various projects from
-OpenOffice.org to Mozilla.
+该软件包括将本地化格式转换为通用 PO 和新兴 XLIFF 格式的程序。此外，还有检查和管理 PO 和 XLIFF 文件的程序。在线文档包括使用工具、运行本地化项目以及如何本地化从 OpenOffice.org 到 Mozilla 的各种项目的指南。
 
-At its core the software contains a set of classes for handling various
-localization storage formats: DTD, properties, OpenOffice.org GSI/SDF,
-CSV, MO, Qt .ts, TMX, TBX, WordFast txt, Gettext .mo, Windows RC, and
-of course PO and XLIFF.  It also provides scripts to convert between
-these formats.
+该软件的核心包含一组用于处理各种本地化存储格式的类： DTD、属性、OpenOffice.org GSI/SDF、CSV、MO、Qt .ts、TMX、TBX、WordFast txt、Gettext .mo、Windows RC，当然还有 PO 和 XLIFF。它还提供了在这些格式之间进行转换的脚本。
 
-Also part of the Toolkit are Python programs to create word counts, merge
-translations and perform various checks on translation files.
+工具包中还有 Python 程序，用于创建字数统计、合并译文以及对翻译文件执行各种检查。
+
+该软件的核心包含一组用于处理各种本地化存储格式的类
+本地化存储格式： DTD, properties, OpenOffice.org GSI/SDF、
+CSV、MO、Qt .ts、TMX、TBX、WordFast txt、Gettext .mo、Windows RC，以及
+当然还有 PO 和 XLIFF。 它还提供了在这些格式之间进行转换的脚本。
+格式之间进行转换的脚本。
+
+该工具包还包含 Python 程序，用于创建字数统计、合并翻译和对翻译文件进行各种检查。
+翻译并对翻译文件执行各种检查。
 
 
 Important Links
